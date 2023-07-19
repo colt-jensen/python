@@ -12,14 +12,6 @@ print('Hello World')
 
 pwd
 
-
-# In[26]:
-
-
-print('This is my source material - https://www.youtube.com/watch?v=7eh4d6sabA0')
-print('importing data resource - https://www.datacamp.com/community/tutorials/pandas-read-csv')
-
-
 # In[17]:
 
 
